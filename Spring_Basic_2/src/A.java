@@ -6,6 +6,6 @@ public class A {
 		ApplicationContext applicationContext = new GenericApplicationContext();
 		if(applicationContext.containsBean("a"))
 			System.out.println("aaaaaa");
-		aaa;
+	
 	}
 }
